@@ -6,8 +6,9 @@
   "author": "zly",
   "createTime": "2024-03-18",
   "fileConfig": {
-    "inputRootPath": "D:/javacode/zly-generator/zly-generator-demo-projects/acm-template-pro",
+    "inputRootPath": ".source/acm-template-pro",
     "outputRootPath": "generated",
+    "sourceRootPath":"D:/javacode/zly-generator/zly-generator-demo-projects/acm-template-pro",
     "type": "dir",
     "files": [
       {
